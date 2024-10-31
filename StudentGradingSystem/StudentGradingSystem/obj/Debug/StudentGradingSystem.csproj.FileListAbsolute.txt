@@ -1,0 +1,12 @@
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe.config
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.exe
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\bin\Debug\StudentGradingSystem.pdb
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.exe
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.pdb
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.StudentInformationLogin.resources
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.StudentInformation.resources
+C:\Users\bengi\Desktop\C# Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\StudentGradingSystem.TeacherOperations.resources
